@@ -92,6 +92,10 @@ body{
   margin: 40px auto;
 }
 
+body a{
+  text-decoration: none;
+}
+
 .wrapper{
 	margin:auto;
 	width:800px;
