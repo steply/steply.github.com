@@ -127,6 +127,11 @@ h3{
 	font-size: 40px;
 }
 
+h5{
+  font-weight: normal;
+  font-size: 20px;
+}
+
 nav{
 	float:right;
 	margin-top:30px;
@@ -170,6 +175,32 @@ aside{
   margin: 50px 0;
 }
 
+#main-content h5 {
+  color: #444444;
+  margin-bottom: 15px;
+}
+
+#main-content {
+  font-size: 16px;
+  color: #8c8c8c;
+}
+
+#main-content p{
+  margin: 10px 0;
+  width: 380px;
+}
+
+#main-content-left {
+  width: 380px;
+  padding-right: 20px;
+  float:left;
+}
+
+#main-content-right {
+  width: 400px;
+  float:right;
+}
+
 #main header h2{
 	padding-bottom:30px;
 }
@@ -177,7 +208,7 @@ aside{
 article header{
 	margin-bottom:50px;
 	padding-bottom:30px;
-	width:700px;
+	width:800px;
 }
 
 #footer-container{
