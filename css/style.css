@@ -75,7 +75,7 @@ button {  width: auto; overflow: visible; }
 
 body, select, input, textarea {  color: #444; }
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
-a, a:active, a:visited { color: #607890; }
+a, a:active, a:visited { color: #687b89; }
 a:hover { color: #036; }
 
 /*
@@ -89,7 +89,7 @@ a:hover { color: #036; }
 body{
 	font-family:Helvetica, Helvetica Neue, Arial, sans-serif;
   width: 800px;
-  margin: 0 auto;
+  margin: 40px auto;
 }
 
 .wrapper{
@@ -99,7 +99,7 @@ body{
 
 #header-container{
 	background-color:#ffffff;
-	height:130px;
+	height:60px;
 	border-bottom:1px solid #b1d0e3;
 	margin-bottom:50px;
 }
@@ -129,7 +129,7 @@ h3{
 
 nav{
 	float:right;
-	margin-top:100px;
+	margin-top:30px;
 }
 
 nav ul, nav ul li{
@@ -137,8 +137,8 @@ nav ul, nav ul li{
 }
 
 nav a{
-	padding:20px;
-	color:black;
+  font-size: 14px;
+	padding:8px;
 	text-decoration:none;
 }
 
