@@ -206,19 +206,21 @@ aside{
 }
 
 article header{
-	margin-bottom:50px;
-	padding-bottom:30px;
+	margin-bottom:20px;
+	padding-bottom:20px;
 	width:800px;
 }
 
 #footer-container{
 	height:240px;
 	border-top:1px solid #b1d0e3;
-	margin-top:50px;
+	margin-top:20px;
+  padding: 10px;
 }
 
 #footer-container footer{
-	color:white;
+  color: #8c8c8c;
+  text-align: center;
 }
 
 .info{
