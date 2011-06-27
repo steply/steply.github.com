@@ -42,7 +42,7 @@ pre, code, kbd, samp { font-family: monospace, sans-serif; }
 
 html { overflow-y: scroll; }
 a:hover, a:active { outline: none; }
-ul, ol { margin-left: 2em; }
+ul, ol { margin-left: 1.5em; }
 ol { list-style-type: decimal; }
 nav ul, nav li { margin: 0; list-style:none; list-style-image: none; }
 small { font-size: 85%; }
@@ -191,12 +191,12 @@ aside{
 
 #main-content p{
   margin: 10px 0;
-  width: 380px;
+  width: 100%;
 }
 
 #main-content-left {
-  width: 380px;
-  padding-right: 20px;
+  width: 370px;
+  padding-right: 30px;
   float:left;
 }
 
