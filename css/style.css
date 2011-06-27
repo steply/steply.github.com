@@ -195,13 +195,14 @@ aside{
 }
 
 #main-content-left {
-  width: 370px;
-  padding-right: 30px;
+  width: 380px;
+  padding-right: 20px;
   float:left;
 }
 
 #main-content-right {
-  width: 400px;
+  padding-left: 20px;
+  width: 380px;
   float:right;
 }
 
