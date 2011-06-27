@@ -206,6 +206,11 @@ aside{
   float:right;
 }
 
+#main-bottom {
+  margin-top: 10px;
+  color: #444;
+}
+
 #main header h2{
 	padding-bottom:30px;
 }
